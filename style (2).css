@@ -124,7 +124,7 @@ p{
     color: white;
     height: 70px;
     width: 100%;
-    background-color: salmon;
+    background-color: #ABB6C8;
     font-size: 20px;
 }
 
@@ -211,7 +211,7 @@ p{
     width: 1200px; 
     height: 100%;
     display: flex;
-    background-color: cornsilk;
+    background-color:#DADADA;
     margin: 0 auto;
     
     flex-direction: column;
@@ -232,7 +232,7 @@ main{
     flex-wrap: wrap;
     margin: 0 auto;
     justify-content: space-evenly;
-    background-color: rgb(214, 189, 151);
+    background-color: #DADADA;
     
 
 }
@@ -242,7 +242,7 @@ main{
     flex-direction: column;
     width: 450px;
     height: 600px;
-    background-color: aqua;
+    background-color:#C2C4B2;
     align-items: center;
     margin-top: 20px;
 
@@ -262,7 +262,7 @@ main{
 }
 
 .price{
-    background-color: aquamarine;
+    background-color: #F7F0C6;
     margin-top: 10px;
     width: 100px;
     height:40px;
@@ -282,7 +282,7 @@ h2{
 .slider-container{
     width: 100%;
     height: 350px;
-    background-color: cadetblue;
+    background-color: #5D7599;
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
@@ -302,8 +302,4 @@ h2{
     height: 350px;
     vertical-align: top;
     object-fit: cover;
-
-
-
 }
- 
